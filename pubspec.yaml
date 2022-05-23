@@ -1,0 +1,15 @@
+name: course
+description: A simple command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+
+dependencies:
+   # / path: ^1.7.0
+   http: ^0.13.3
+
+dev_dependencies:
+  lints: ^1.0.0
